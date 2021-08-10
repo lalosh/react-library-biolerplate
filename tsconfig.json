@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "outDir": "dist",
+        "declaration": true,
+        "strict": true,
+        "target": "ES5",
+        "jsx": "react",
+        "lib": [
+            "DOM",
+            "ES5"
+        ],
+        "allowJs": true,
+        "esModuleInterop": true,
+        "downlevelIteration": true
+    },
+}
