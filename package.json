@@ -1,6 +1,6 @@
 {
   "name": "@lalosh/react-library-boilerplate",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "React library boilerplate",
   "main": "dist/index.js",
   "types": "dist/types",
